@@ -1,0 +1,22 @@
+header {
+  padding: 30px;
+  text-align: center;
+  font-size: 50px;
+  color: rgb(1, 1, 1);
+}
+body {
+  margin: 40px;
+  background-color: MistyRose;
+  font-family: arial, sans-serif;
+  color: rgb(1, 1, 1);
+  font-size: 15px;
+}
+h1 {
+  color: #943b66;
+  font-size: 28px;
+  font-weight: normal;
+  margin-top: 11px;
+}
+h3 {
+  color: #fff000
+}
